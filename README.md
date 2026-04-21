@@ -167,6 +167,17 @@ These prints were completed on the same printer, with the same gcode, same filam
 
 ![CFG](docs/images/cfd.png)
 
+
+## Licenced kits
+Licenced kits for A4T are available from the following manufucturers:<br/>
+
+| Manufacturer                                                    | Purchase Link                                     |
+| --------------------------------------------------------------- | ------------------------------------------------- |
+| ![alt text](docs/images/tl.png)                                 | https://aliexpress.com/item/1005011869753607.html |
+| ![alt text](docs/images/blv.png)                                | https://aliexpress.com/item/1005011905019224.html |
+
+
+
 ### Credits
 * The helpful Crew and Contributors at Voron Design
 * Big shoutout to [yellowfish543](https://github.com/yellowfish543/StdToolheadOpenfoam/) for the CFD insights that unlocked the potential of this design.
